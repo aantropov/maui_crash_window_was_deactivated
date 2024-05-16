@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Microsoft Visual Studio
+MauiCrash/bin/**
+MauiCrash/obj/**
+SecondaryWindow/x64/**
+/.vs
+*.pdb
+*.ilk
